@@ -1,0 +1,1 @@
+# Pattern for fastapi and fastapi-users with MongoDB
