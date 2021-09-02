@@ -136,3 +136,11 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Pycharm ext
+.DS_Store
+.idea
+users_pattern/.DS_Store
+users_pattern/database/.DS_Store
+users_pattern/middlewares/.DS_Store
+users_pattern/models/.DS_Store
